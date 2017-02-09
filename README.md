@@ -15,7 +15,7 @@
 ## Environment  
 
 <p align="center">
-    <img src="images/software.gif" width="480" alt="bm_image" /><br>
+    <img src="images/software.png" width="480" alt="software.png" /><br>
 </p>  
   
   
@@ -33,14 +33,14 @@
 ## Screen form
 
 <p align="center">
-    <img src="images/game_screen.png" width="480" alt="screen" /><br>
+    <img src="images/game_screen.png" width="540" alt="screen" /><br>
 </p>
 
 
 ## Game Process  
   
 <p align="center">
-    <img src="images/ar_process2.gif" width="480" alt="bm_image" /><br>
+    <img src="images/process.png" width="480" alt="process" /><br>
 </p>
 
 Before starting this game, we should make marker. Any flat place is ok if there are some features. If capture a marker region, the game start. You have to defend the tower from other fighters. You should shoot the enemy down before they attack our tower. The enemy's speed will be up as time goes by. If the tower's HP becomes zero, the game is over.
@@ -75,7 +75,7 @@ for a natural explosion effect, I refered to [this site](https://www.youtube.com
 ## Items  
   
 <p align="center">
-    <img src="images/items" width="480" alt="items" /><br>
+    <img src="images/items.gif" width="480" alt="items" /><br>
 </p>
 
 I added some other functions like item. 
