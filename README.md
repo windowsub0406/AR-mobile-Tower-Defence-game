@@ -48,7 +48,7 @@ Before starting this game, we should make marker. Any flat place is ok if there 
 ## Piloting    
   
 <p align="center">
-    <img src="images/piloting3.gif" width="480" alt="piloting" /><br>
+    <img src="images/piloting3.gif" width="420" alt="piloting" /><br>
 </p>  
 
 We can control our fighter by moving a joystick on the lower left of the screen.  
@@ -57,7 +57,7 @@ We can control our fighter by moving a joystick on the lower left of the screen.
 ## Shooting Missile  
     
 <p align="center">
-    <img src="images/missile.gif" width="480" alt="missile" /><br>
+    <img src="images/missile.gif" width="420" alt="missile" /><br>
 </p>
   
 I limited the number of missiles. A lot of missiles give rise to wreck. So I removed the missile if it goes over a threshold.  
@@ -75,7 +75,7 @@ for a natural explosion effect, I refered to [this site](https://www.youtube.com
 ## Items  
   
 <p align="center">
-    <img src="images/items.gif" width="480" alt="items" /><br>
+    <img src="images/item.gif" width="480" alt="items" /><br>
 </p>
 
 I added some other functions like item. 
